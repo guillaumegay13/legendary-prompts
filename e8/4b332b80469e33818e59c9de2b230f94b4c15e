@@ -1,0 +1,25 @@
+README.md
+  s_345475144e5e88::t_272b230a7074bd 3,7,9,13-14
+  s_345475144e5e88::t_e46a1db6746c24 16
+  s_345475144e5e88::t_178736a05727fb 15
+  s_345475144e5e88::t_45425631d28102 20-25,29
+  s_345475144e5e88::t_f8327666d1f1c7 31
+prompts/claude-code/prompts/suzanne.md
+  ai_agent 1-15
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "e84b332b80469e33818e59c9de2b230f94b4c15e",
+  "prompts": {},
+  "sessions": {
+    "s_345475144e5e88": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ce3aa781-d920-46a7-87d9-3a076195bde6",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Guillaume Gay <guillaume.gay@protonmail.com>"
+    }
+  }
+}
