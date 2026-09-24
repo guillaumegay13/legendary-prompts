@@ -14,6 +14,7 @@ Each file is just the raw prompt. The index below adds light context — what ki
 |---|---|---|---|---|---|---|
 | [Marc Andreessen](prompts/openclaw/system-prompts/marc-andreessen.md) | Co-founder, a16z | System prompt | OpenClaw | Brutally honest world-class expert — no flattery, no hedging, leads with the counterargument | [@pmarca](https://x.com/pmarca/status/2051374498994364529) | 2026-05-04 |
 | [Suzanne](prompts/claude-code/prompts/suzanne.md) | Anthropic | Prompt | Claude Code | Teaching prompt that makes you deeply understand a coding session before it ends | [gist](https://gist.github.com/ThariqS/1389dcdff9eba4789887a2211370f06b) (shared by Thariq Shihipar) | 2026-06-01 |
+| [Eric Zakariasson](prompts/any-sdk/prompts/eric-zakariasson.md) | SpaceXAI, prev. Cursor | Prompt | Any SDK | Audits an agent harness to cut token cost per task without losing quality — caching, tool offloading, compaction | [@ericzakariasson](https://x.com/ericzakariasson/status/2102853511637774551) | 2026-09-23 |
 
 ## Contributing
 
