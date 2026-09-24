@@ -1,0 +1,21 @@
+prompts/any-sdk/prompts/eric-zakariasson.md
+  s_eec8b7cf09dd77::t_91d465927726a6 1-138
+README.md
+  s_eec8b7cf09dd77::t_14b7f1639f6772 17
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "d54b55be860b9f52bada0ad836dd128ae128a3c0",
+  "prompts": {},
+  "sessions": {
+    "s_eec8b7cf09dd77": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ac14f57f-d896-4666-b5a7-197891b1b39e",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Guillaume Gay <guillaume.gay@protonmail.com>"
+    }
+  }
+}
